@@ -1,0 +1,19 @@
+package io.agaileintelligence.ppmtool.exception;
+
+public class ProjectNotFound {
+
+	private String projectNotFound;
+
+	public ProjectNotFound(String projectNotFound) {
+		this.projectNotFound = projectNotFound;
+	}
+
+	public String getProjectNotFound() {
+		return projectNotFound;
+	}
+
+	public void setProjectNotFound(String projectNotFound) {
+		this.projectNotFound = projectNotFound;
+	}
+
+}

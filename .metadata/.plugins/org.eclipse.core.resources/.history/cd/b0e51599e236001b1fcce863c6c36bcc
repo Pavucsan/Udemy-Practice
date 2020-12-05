@@ -1,0 +1,5 @@
+package io.agaileintelligence.ppmtool.exception;
+
+public class ProjectNotFoundExceptionResponse {
+
+}

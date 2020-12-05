@@ -2,11 +2,14 @@ package io.agaileintelligence.ppmtool.entity;
 
 import java.util.Date;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.OneToOne;
 import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
 import javax.validation.constraints.NotBlank;
@@ -22,6 +25,7 @@ public class Project {
 	private Long id;
 	@NotBlank(message = "Project name is required")
 	private String projectName;
+	
 	
 	@NotBlank(message = "Project Identifier is required")
 	@Size(min = 4, max = 5, message = "Please use 4 to 5 characters")
@@ -39,6 +43,17 @@ public class Project {
 	private Date created_At;
 	@JsonFormat(pattern = "yyyy-mm-dd")
 	private Date updated_At;
+	
+	@OneToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL, mappedBy = "project")
+	private Backlog backlog;
+
+	public Backlog getBacklog() {
+		return backlog;
+	}
+
+	public void setBacklog(Backlog backlog) {
+		this.backlog = backlog;
+	}
 
 	public Project() {
 	}
