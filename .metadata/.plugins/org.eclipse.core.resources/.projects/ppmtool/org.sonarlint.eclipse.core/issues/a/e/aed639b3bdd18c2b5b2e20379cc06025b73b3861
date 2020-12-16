@@ -1,0 +1,33 @@
+
+ƒ	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÚ®¥8ÀûÂ•ã.H¨RMINORZ
+CODE_SMELL
+~
+java:S4684B"@Replace this persistent entity with a simple POJO or DTO object.(âœ¯¦øÿÿÿÿ8Ç­¸–ã.HµRCRITICALZVULNERABILITY
+|	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¥¹¸H¥RMINORZ
+CODE_SMELL
+ƒ	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÒÇ8Ç­¸–ã.H¶RMINORZ
+CODE_SMELL
+a
+java:S1452B"&Remove usage of generic wildcard type.(âœ¯¦øÿÿÿÿ8Ç­¸–ã.H·RCRITICALZ
+CODE_SMELL
+U
+java:S1452:"&Remove usage of generic wildcard type.(ÍÚ®¥H£RCRITICALZ
+CODE_SMELL
+ƒ	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÒÇ8Ç­¸–ã.H¸RMINORZ
+CODE_SMELL
+a
+java:S1452$"&Remove usage of generic wildcard type.(ØÍ‘ºøÿÿÿÿ8ÀûÂ•ã.H©RCRITICALZ
+CODE_SMELL
+ƒ	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÚ®¥8ÀûÂ•ã.H§RMINORZ
+CODE_SMELL
+ˆ	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙœ”üÿÿÿÿ8¶’Úã.H¤RMINORZ
+CODE_SMELL
+~
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(ØÍ‘ºøÿÿÿÿ8ˆ†À€ã.H¦RCRITICALZVULNERABILITY
+ˆ	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûĞ„˜ıÿÿÿÿ8·Ùê–ã.H¹RMINORZ
+CODE_SMELL
+ˆ	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûĞ„˜ıÿÿÿÿ8·Ùê–ã.HºRMINORZ
+CODE_SMELL
+a
+java:S1452P"&Remove usage of generic wildcard type.(ûĞ„˜ıÿÿÿÿ8·Ùê–ã.H»RCRITICALZ
+CODE_SMELL

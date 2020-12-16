@@ -1,0 +1,22 @@
+
+ˆ	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÖôÃùÿÿÿÿ8üâÂ•ã.HªRMINORZ
+CODE_SMELL
+ƒ	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïü¹Û8ÉØ¼€ã.HŸRMINORZ
+CODE_SMELL
+w
+java:S1854g"?Remove this useless assignment to local variable "projectTask".(ÌÍˆˆÿÿÿÿÿ8¯¹î–ã.HÀRMAJORZ
+CODE_SMELL
+ˆ	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÿç–ùÿÿÿÿ8¯¹î–ã.H¾RMINORZ
+CODE_SMELL
+ˆ	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÿç–ùÿÿÿÿ8¯¹î–ã.H¿RMINORZ
+CODE_SMELL
+e
+java:S49731"9Use the "equals" method if value comparison was intended.(ØúÒ‰8ÉØ¼€ã.HžRMAJORZBUG
+ˆ	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÖ®êýÿÿÿÿ8üâÂ•ã.H«RMINORZ
+CODE_SMELL
+n	java:S125t"<This block of commented-out lines of code should be removed.(â˜´²8›Üä—ã.HÄRMAJORZ
+CODE_SMELL
+ˆ	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÖ®êýÿÿÿÿ8Åé¯–ã.H¼RMINORZ
+CODE_SMELL
+ˆ	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÖôÃùÿÿÿÿ8Åé¯–ã.H½RMINORZ
+CODE_SMELL

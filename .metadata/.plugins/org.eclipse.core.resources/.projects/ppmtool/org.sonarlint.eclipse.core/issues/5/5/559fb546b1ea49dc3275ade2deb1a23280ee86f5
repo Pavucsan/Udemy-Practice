@@ -1,0 +1,23 @@
+
+~	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¨È¡üÿÿÿÿH–RMINORZ
+CODE_SMELL
+~	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ…Ê¼øÿÿÿÿH“RMINORZ
+CODE_SMELL
+µ
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë‰ã‰ıÿÿÿÿH›RCRITICALZ
+CODE_SMELL
+	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŒªûÿÿÿÿH”RMINORZ
+CODE_SMELL
+	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„åõÕÿÿÿÿÿH˜RMINORZ
+CODE_SMELL
+~	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„åõÕÿÿÿÿÿH™RMINORZ
+CODE_SMELL
+	java:S116+"TRename this field "update_At" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÙ„ƒH•RMINORZ
+CODE_SMELL
+~	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŒªûÿÿÿÿH—RMINORZ
+CODE_SMELL
+„	java:S116*"TRename this field "create_At" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áĞóÌøÿÿÿÿHšRMINORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê8¦Çã—ã.HÂRMINORZ
+CODE_SMELL

@@ -1,6 +1,6 @@
 
-~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÿ¾¤ýÿÿÿÿHƒRMINORZ
-CODE_SMELL
 Z
-java:S1452"&Remove usage of generic wildcard type.(”ÿ¾¤ýÿÿÿÿH‚RCRITICALZ
+java:S1452"&Remove usage of generic wildcard type.(”ÿ¾¤ýÿÿÿÿHîRCRITICALZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÿ¾¤ýÿÿÿÿHïRMINORZ
 CODE_SMELL

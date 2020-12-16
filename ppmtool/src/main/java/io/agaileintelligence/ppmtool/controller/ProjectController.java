@@ -21,7 +21,7 @@ import io.agaileintelligence.ppmtool.service.ProjectService;
 
 @RestController
 @RequestMapping("/api/project")
-@CrossOrigin
+@CrossOrigin(origins = "http://localhost:3000")
 public class ProjectController {
 
 	@Autowired
