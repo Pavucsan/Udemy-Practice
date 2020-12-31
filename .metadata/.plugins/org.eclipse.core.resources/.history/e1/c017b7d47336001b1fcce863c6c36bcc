@@ -1,5 +1,0 @@
-package io.agaileintelligence.ppmtool.repository;
-
-@Repository
-public interface BacklogRepository extends CrudRepository<Backlog, Long> {
-}

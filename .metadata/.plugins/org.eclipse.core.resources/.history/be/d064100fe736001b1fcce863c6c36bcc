@@ -1,8 +1,0 @@
-package io.agaileintelligence.ppmtool.exception;
-
-import org.springframework.web.bind.annotation.ResponseStatus;
-
-@ResponseStatus
-public class ProjectNotFoundExceptionResponse {
-
-}

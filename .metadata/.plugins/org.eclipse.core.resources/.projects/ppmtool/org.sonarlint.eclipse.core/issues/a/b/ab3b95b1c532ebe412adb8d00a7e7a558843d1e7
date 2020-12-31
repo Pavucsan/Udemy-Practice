@@ -1,12 +1,12 @@
 
 \
-java:S1452-"&Remove usage of generic wildcard type.(¦Ηύ8ªΘ«τα.HΐRCRITICALZ
-CODE_SMELL
-\
-java:S1452:"&Remove usage of generic wildcard type.(Ο΅ύ8«Μÿτα.HΑRCRITICALZ
+java:S1452/"&Remove usage of generic wildcard type.(’Ή­υ8‘”°ρα.HΕRCRITICALZ
 CODE_SMELL
 y
-java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(‡ί©—8ΦΨ–πα.HΒRCRITICALZVULNERABILITY
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(ψΦν8ΦΨ–πα.HΖRCRITICALZVULNERABILITY
 \
-java:S1452""&Remove usage of generic wildcard type.(‡ί©—8‘”°ρα.HΓRCRITICALZ
+java:S1452$"&Remove usage of generic wildcard type.(ψΦν8ªΘ«τα.HΗRCRITICALZ
+CODE_SMELL
+a
+java:S1452<"&Remove usage of generic wildcard type.(ώΜ¥αωÿÿÿÿ8«Μÿτα.HΘRCRITICALZ
 CODE_SMELL

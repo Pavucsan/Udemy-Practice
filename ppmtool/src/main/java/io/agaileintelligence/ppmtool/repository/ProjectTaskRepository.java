@@ -10,7 +10,7 @@ import io.agaileintelligence.ppmtool.entity.ProjectTask;
 @Repository
 public interface ProjectTaskRepository extends CrudRepository<ProjectTask, Long> {
 
-    List<ProjectTask> findByProjectIdentifierOrderByPriority(String id);
+	List<ProjectTask> findByProjectIdentifierOrderByPriority(String id);
 
-    ProjectTask findByProjectSequence(String sequence);
+	ProjectTask findByProjectSequence(String sequence);
 }
