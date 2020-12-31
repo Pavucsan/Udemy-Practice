@@ -1,0 +1,20 @@
+
+~	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ехХяяяяяH»RMINORZ
+CODE_SMELL
+	java:S116*"TRename this field "update_At" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ЄЩ„ѓHјRMINORZ
+CODE_SMELL
+Ѓ	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ехХяяяяяHЅRMINORZ
+CODE_SMELL
+„	java:S116)"TRename this field "create_At" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(бРуМшяяяяHѕRMINORZ
+CODE_SMELL
+~	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µЁИЎьяяяяHїRMINORZ
+CODE_SMELL
+µ
+java:S1186,"ЂAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(л‰г‰эяяяяHАRCRITICALZ
+CODE_SMELL
+Ѓ	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ћпЊЄыяяяяHБRMINORZ
+CODE_SMELL
+~	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ћпЊЄыяяяяHВRMINORZ
+CODE_SMELL
+~	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€…КјшяяяяHГRMINORZ
+CODE_SMELL

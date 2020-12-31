@@ -1,0 +1,46 @@
+
+~
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(âœ¯¦øÿÿÿÿ8Ç­¸–ã.HÿRCRITICALZVULNERABILITY
+ˆ	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿ¼÷ùÿÿÿÿ8µƒñ·æ.H€RMINORZ
+CODE_SMELL
+ƒ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š©ç8¶’Úã.HRMINORZ
+CODE_SMELL
+ˆ	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õïåÙÿÿÿÿÿ8Ç­¸–ã.H‚RMINORZ
+CODE_SMELL
+ˆ	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õïåÙÿÿÿÿÿ8Ç­¸–ã.HƒRMINORZ
+CODE_SMELL
+	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëµãÍúÿÿÿÿH„RMINORZ
+CODE_SMELL
+a
+java:S1452@"&Remove usage of generic wildcard type.(âÿ¼÷ùÿÿÿÿ8ÀûÂ•ã.H…RCRITICALZ
+CODE_SMELL
+\
+java:S1452U"&Remove usage of generic wildcard type.(í¿©ç8Ç­¸–ã.H†RCRITICALZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÛÃÃ¸ç.HÊRMINORZ
+CODE_SMELL
+ƒ	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¿©ç8·Ùê–ã.H‡RMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÛÃÃ¸ç.HËRMINORZ
+CODE_SMELL
+g
+java:S1128
+"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8ÛÃÃ¸ç.HÉRMINORZ
+CODE_SMELL
+ˆ	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿ¼÷ùÿÿÿÿ8µƒñ·æ.HˆRMINORZ
+CODE_SMELL
+_
+java:S1128	"-Remove this unused import 'org.slf4j.Logger'.(íØ®68ÛÃÃ¸ç.HÈRMINORZ
+CODE_SMELL
+Z
+java:S1452*"&Remove usage of generic wildcard type.(ØÍ‘ºøÿÿÿÿH‰RCRITICALZ
+CODE_SMELL
+~
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(ØÍ‘ºøÿÿÿÿ8ˆ†À€ã.HŠRCRITICALZVULNERABILITY
+a
+java:S1452G"&Remove usage of generic wildcard type.(âœ¯¦øÿÿÿÿ8·Ùê–ã.H‹RCRITICALZ
+CODE_SMELL
+ƒ	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¿©ç8·Ùê–ã.HŒRMINORZ
+CODE_SMELL

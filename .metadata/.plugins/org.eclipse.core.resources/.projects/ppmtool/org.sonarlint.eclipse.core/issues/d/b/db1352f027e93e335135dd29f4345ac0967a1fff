@@ -1,0 +1,8 @@
+
+°
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶çÈ­HËRCRITICALZ
+CODE_SMELL
+…	java:S116"URename this field "PTSequence" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÛ—æşÿÿÿÿHÌRMINORZ
+CODE_SMELL
+	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÛÕ¾úÿÿÿÿHÊRMINORZ
+CODE_SMELL
